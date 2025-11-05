@@ -33,7 +33,10 @@ header .container {
     font-size: 1.8rem;
     font-weight: bold;
 }
-
+.logo-text{
+     text-decoration: none;
+      color: white;
+}
 nav ul {
     list-style: none;
     display: flex;
@@ -141,4 +144,5 @@ ol, ul{
         font-size: 1.8rem;
     }
 }
+
 
